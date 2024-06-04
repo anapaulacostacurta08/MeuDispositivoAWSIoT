@@ -1,6 +1,6 @@
-#1. Acessar a Console do AWS IoT
-   ##1.1 Vídeo de ajuda: https://youtu.be/lKupMQzEUN8
-   ##1.2 Fonte para consulta: https://aws.amazon.com/pt/blogs/aws-brasil/comecando-com-o-aws-iot-parte-1/
+# 1. Acessar a Console do AWS IoT
+   ## 1.1 Vídeo de ajuda: https://youtu.be/lKupMQzEUN8
+   ## 1.2 Fonte para consulta: https://aws.amazon.com/pt/blogs/aws-brasil/comecando-com-o-aws-iot-parte-1/
 
 3. Criar uma Coisa,  Criar um Certificado, Criar uma Política, Vincular o Dispositivo, Política e Certificado
    2.1 Vídeo de ajuda: em breve
