@@ -3,7 +3,7 @@
    ## 1.2 Fonte para consulta: https://aws.amazon.com/pt/blogs/aws-brasil/comecando-com-o-aws-iot-parte-1/
 
 # v3. Criar uma Coisa,  Criar um Certificado, Criar uma Política, Vincular o Dispositivo, Política e Certificado
-   ## 2.1 Vídeo de ajuda: em breve
+   ## 2.1 Vídeo de ajuda: https://youtu.be/qwcLpMQFouo
    ## 3.2 Fonte para consulta: https://aws.amazon.com/pt/blogs/aws-brasil/comecando-com-o-aws-iot-parte-1/
 
 # 4. Preparar o Ambiente para Simular um Dispositivo
